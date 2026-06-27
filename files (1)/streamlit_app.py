@@ -62,7 +62,7 @@ p, span, label, div { color: #1e293b; }
     font-size: 15px;
 }
 [data-testid="stDownloadButton"] > button {
-    background: #2563eb !important;
+    background: #2563eb   !important;
     color: white !important;
     border: none;
     border-radius: 8px;
